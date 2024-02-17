@@ -18,13 +18,14 @@ To compile and run this game, you need:
 git clone https://github.com/yourusername/stealth-game.git
 cd stealth-game
 
-2. Compile the game
+3. Compile the game
    For Linux and MacOS:
 gcc -o stealth_game main.c
+
    For Windows:
 gcc -o stealth_game.exe main.c
 
-3. Run the game
+5. Run the game
    Linux and MacOS:
 ./stealth_game
    Windows:
