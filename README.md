@@ -15,7 +15,7 @@ To compile and run this game, you need:
 
 ## Installation
 1. Clone the repository:
-[git clone https://github.com/yourusername/stealth-game.git ](https://github.com/Yoongishkarrr/Stealth-Game.git)         
+[git clone https://github.com/Yoongishkarrr/Stealth-Game.git]         
 cd stealth-game
 
 3. Compile the game:
